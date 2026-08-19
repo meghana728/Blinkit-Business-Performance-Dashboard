@@ -2,7 +2,7 @@
 
 An interactive **Power BI dashboard** developed to analyze Blinkit's business performance across **business operations, customer behavior, and marketing effectiveness**.
 
-The dashboard provides interactive KPIs, visualizations, slicers, and page navigation to help users explore key business metrics and identify performance trends.
+The dashboard provides interactive KPIs, visualizations and slicers to help users explore key business metrics and identify performance trends.
 
 ---
 
